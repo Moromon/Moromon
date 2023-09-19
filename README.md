@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
-My name is Luis Morón Álvarez
-I'm studiying Videogame Design & Development at Universidad Rey Juan Carlos
+My name is Luis Morón Álvarez 
+\n I'm studiying Videogame Design & Development at Universidad Rey Juan Carlos
 
 
 
