@@ -1,8 +1,6 @@
 ### Welcome to my profile! 👋
-My name is Luis Morón Álvarez 
-/n I'm studiying Videogame Design & Development at Universidad Rey Juan Carlos
-
-
+My name is Luis Morón Álvarez  
+I'm studiying Videogame Design & Development at Universidad Rey Juan Carlos
 
 <!--
 **Moromon/Moromon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
