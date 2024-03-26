@@ -2,7 +2,6 @@
 My name is Luis Morón Álvarez  
 I'm studiying Videogame Design & Development at Universidad Rey Juan Carlos
 
-### Skills
 
 
 
